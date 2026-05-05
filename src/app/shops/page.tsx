@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 const ShopsPage = () => {
   return (
     <div className="pb-20 pt-10">
-      <h1 className="mb-6 container text-2xl font-semibold">All Boutique<</h1>
+      <h1 className="mb-6 container text-2xl font-semibold">All Boutique</h1>
 
       <div className="grid gap-6 grid-cols-1 min-[400px]:grid-cols-2 md:grid-cols-3 container">
         {shops.map((shop) => (
