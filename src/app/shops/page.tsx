@@ -52,7 +52,7 @@ const shops = [
 ];
 
 export const metadata: Metadata = {
-  title: "All Boutique",
+  title: "All Shops",
   description:
     "CloudKart is the user-friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, CloudKart makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
 };
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 const ShopsPage = () => {
   return (
     <div className="pb-20 pt-10">
-      <h1 className="mb-6 container text-2xl font-semibold">All Boutique</h1>
+      <h1 className="mb-6 container text-2xl font-semibold">All Shops</h1>
 
       <div className="grid gap-6 grid-cols-1 min-[400px]:grid-cols-2 md:grid-cols-3 container">
         {shops.map((shop) => (
