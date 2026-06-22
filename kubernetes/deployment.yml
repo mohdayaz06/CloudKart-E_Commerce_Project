@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: cloudkart-app
-        image: mohdayazz/cloudkart:build-16
+        image: mohdayazz/cloudkart:build-17
         ports:
         - containerPort: 3000
