@@ -20,7 +20,7 @@ const shops = [
     link: "/shops/bags",
   },
   {
-    title: "Clothing Shop",
+    title: "New Clothing Shop",
     image: "/icons/bakery.png",
     link: "/shops/clothing",
   },
