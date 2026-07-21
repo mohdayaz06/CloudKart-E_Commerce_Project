@@ -5,7 +5,7 @@ import React from "react";
 
 const shops = [
   {
-    title: "Devops Fucking Books",
+    title: "AWS DEVOPS BOOKS",
     image: "/icons/books.png",
     link: "/shops/books",
   },
